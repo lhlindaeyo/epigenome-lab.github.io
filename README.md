@@ -1,2 +1,2 @@
 # epigenome-lab.github.io
-김미랑 교수님 랩사이트
+노화, 후성유전학 랩실
